@@ -6,6 +6,21 @@
     <title>Boiler</title>
 </head>
 <body>
+     <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href='{{route("home")}}'>Homepage</a>
+                </li>
+                <li>
+                    <a href='{{route("about")}}'>About Us</a>
+                </li>
+                <li>
+                    <a href='{{route("services")}}'>Services</a>
+                </li>
+            </ul>
+        </nav>
+     </header>
     <h1>Hello World</h1>
 
     <p>
