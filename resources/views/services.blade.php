@@ -1,15 +1,11 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boiler</title>
+    <title>Services</title>
 </head>
 <body>
-    <h1>Hello World</h1>
-
-    <p>
-        {{$first_text}}
-    </p>
+    <h1>Our Services</h1>
 </body>
 </html>
